@@ -1,0 +1,6 @@
+Any from this mods can be removed without any restricts
+
+CommandInventory - additional storage for crewed parts, work only if you have KIS installed - MM patch
+ElectricCost - no more "free" electricCharge. But it still cheap - MM patch
+EngineResponseTime - add small (not like jets) response time for all engines - MM patch
+WaterTanks - add several parts, that can change mass in flight or editor. Good as submarine ballast, or test payload.
