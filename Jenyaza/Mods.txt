@@ -4,3 +4,6 @@ CommandInventory - additional storage for crewed parts, work only if you have KI
 ElectricCost - no more "free" electricCharge. But it still cheap - MM patch
 EngineResponseTime - add small (not like jets) response time for all engines - MM patch
 WaterTanks - add several parts, that can change mass in flight or editor. Good as submarine ballast, or test payload.
+FSFuelSwitch - allow changing fuel type in every fuel tanks, including non-stock (with stock resource system).
+      Based on micha030201'FuelSwitchForEveryTank, with some improvements. NEEDS Firesplitter.dll - MM patch
+      
