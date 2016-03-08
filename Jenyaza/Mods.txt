@@ -21,7 +21,7 @@ SmallGimbal - add small gimballing (0.4 degree only) to all engines, except boos
 
 UraniumInclude - add new resource (NuclearFuel); tweak LV-N and RTG to use them; add some kind of decay to RTG - MM patch
       !--- Not recommended, if you have any craft with this parts already in flight. LV-N will not work, RTG work worse ---!
-            Land (recover) it before installing, or send refueler with NuclearFuel
+            Land (recover) it before installing, or send refueler with NuclearFuel (in ore tanks with FSFuelSwitsh)
       
 WaterTanks  - add several parts, that can change mass in flight or editor. Good as submarine ballast, or test payload.
 
