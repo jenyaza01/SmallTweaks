@@ -1,9 +1,29 @@
 Any from this mods can be removed without any restricts
 
-CommandInventory - additional storage for crewed parts, work only if you have KIS installed - MM patch
-ElectricCost - no more "free" electricCharge. But it still cheap - MM patch
-EngineResponseTime - add small (not like jets) response time for all engines - MM patch
-WaterTanks - add several parts, that can change mass in flight or editor. Good as submarine ballast, or test payload.
+     ===== Description =====
+
+CommandInventory - additional KIS storage for crewed parts, work only if you have KIS installed - MM patch
+
+ElectricCost - no more "free" electricCharge. But it still cheap. And you can sell it too. - MM patch
+
+EngineResponseTime - add small (not like jeeets) response time for all engines, including non-stock - MM patch
+
 FSFuelSwitch - allow changing fuel type in every fuel tanks, including non-stock (with stock resource system).
-      Based on micha030201'FuelSwitchForEveryTank, with some improvements. NEEDS Firesplitter.dll - MM patch
+      Based on micha030201's FuelSwitchForEveryTank, with some improvements. NEEDS Firesplitter.dll - MM patch
+     
+HeadShieldDecoupler - add decoupler to heat shields, to the top node; remove bottom node with awful fairing
+      (heat shields has 3 nodes, I remove only the bottom - it still inline, as normal) - MM patch
+      
+RCS_Lower - both mass and maxAmount of MonoPropellant in RCS tanks are ~2,5 times bigger than same-sised fuel tanks
+      Return this to more reasonable level - MM patch
+      
+SmallGimbal - add small gimballing (0.4 degree only) to all engines, except boosters and which already have it - MM patch
+
+UraniumInclude - add new resource (NuclearFuel); tweak LV-N and RTG to use them; add some kind of decay to RTG - MM patch
+      !--- Not recommended, if you have any craft with this parts already in flight. LV-N will not work, RTG work worse ---!
+            Land (recover) it before installing, or send refueler with NuclearFuel
+      
+WaterTanks  - add several parts, that can change mass in flight or editor. Good as submarine ballast, or test payload.
+
+
       
