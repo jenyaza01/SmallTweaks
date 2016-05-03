@@ -14,6 +14,9 @@ FSFuelSwitch - allow changing fuel type in every LF, LF+OX or MP tanks, includin
 		Based on micha030201's FuelSwitchForEveryTank, with some improvements. Required Firesplitter.dll - MM patch
      
 HeadShieldDecoupler - add build-in decoupler to heat shields, to the top node - MM patch
+
+MoreAlternators - add small alternators to all engines, except boosters and which already have;
+										hide it and EC resource from user's eye - MM patch
       
 PlumeBoost - small visual improvements for visible engine exhaust, LV-N only for now - MM patch
       
