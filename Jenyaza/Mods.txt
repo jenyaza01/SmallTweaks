@@ -1,36 +1,30 @@
 					Any from this small mods can be removed without any restricts and conflicts
 
 											===== Description =====
+											
+AlternatorForAll - add small alternators to all engines, except boosters and which already have - MM patch
 
-ChuteFix - small tweaking of parachutes drag and increasing their max temperatures a bit  - MM patch
+ChuteFix - mostly tweaking of parachutes drag and heigths - MM patch
 											
 CommandInventory - additional KIS storage for all crewed parts, active only if you have KIS installed - MM patch
 
+DecouplerCrossfeed - adds abiliity to toggle crossfeed in any decoupler - MM patch
+
 ElectricCost - no more free electricCharge. But it still cheap. - MM patch
 
-EngineResponseTime - add small (not like jeeets) response time for all engines, including non-stock - MM patch
+EngineResponseTime - add small (not like jeeets) response time for all engines - MM patch
 
-FSFuelSwitch - allow changing fuel type in every LF, LF+OX or MP tanks, including non-stock.
-		Based on micha030201's FuelSwitchForEveryTank, with some improvements. Required Firesplitter.dll - MM patch
+FSFuelSwitch - allow changing fuel type in LF+OX or MP tanks, including non-stock. Required Firesplitter - MM patch
      
 HeadShieldDecoupler - add build-in decoupler to heat shields, to the top node - MM patch
-
-MoreAlternators - add small alternators to all engines, except boosters and which already have;
-										hide it and EC resource from user's eye - MM patch
       
 PlumeBoost - small visual improvements for visible engine exhaust, LV-N only for now - MM patch
       
-RCS_Lower - both mass and max amount of MonoProp. in RCS tanks are ~2,5 times bigger than same-sised fuel tanks
-		Return this to more reasonable level. Otherwise this tanks will be useless with FSFuelSwitch - MM patch
+RCS_Lower - both mass and max amount of MonoProp. in RCS tanks are ~2 times bigger than same-sised fuel tanks
+		Return this to more reasonable level - MM patch
       
-SmallGimbal - add small gimballing (0.4 degree only) to all engines, except boosters and which already have - MM patch
+SmallGimbal - add small gimballing (0.5 degree only) to all engines, except boosters and which already have - MM patch
 
-
-UraniumInclude - add new resource (NuclearFuel); tweak LV-N and RTG to use them; add some kind of decay to RTG - MM patch
-
-		!--- Proceed with caution if you have any craft already in flight, LV-N will not work, RTG work much worse ---!
-        Recover craft before installing, or send some Uranium in ore tanks (with FSFuelSwitch) or ore-like (without)
-									New mode for ISRU and mini-ISRU converters included!
-
+StagingToggle - allow Fairing and Parachute to be removed from staging, as decouplers (beta) - MM patch
 											
 									
