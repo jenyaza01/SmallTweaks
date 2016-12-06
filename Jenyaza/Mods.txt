@@ -1,30 +1,22 @@
 					Any from this small mods can be removed without any restricts and conflicts
+											But better do it before start new save.
 
 											===== Description =====
-											
-AlternatorForAll - add small alternators to all engines, except boosters and which already have - MM patch
 
-ChuteFix - mostly tweaking of parachutes drag and heigths - MM patch
-											
-CommandInventory - additional KIS storage for all crewed parts, active only if you have KIS installed - MM patch
+- AlternatorForAll - add small alternators to all engines, except boosters and which already have - MM patch
 
-DecouplerCrossfeed - adds abiliity to toggle crossfeed in any decoupler - MM patch
+- ChuteTweak - tweaking of parachutes drag and trigger heigths - MM patch
 
-ElectricCost - no more free electricCharge. But it still cheap. - MM patch
+- CommandInventory - build-in KIS storage for all crewed parts, only if you have KIS installed - MM patch
 
-EngineResponseTime - add small (not like jeeets) response time for all engines - MM patch
+- DecouplerCrossfeed - adds abiliity to toggle crossfeed in any decoupler - MM patch // need test with 1.2.1, may be in stock
 
-FSFuelSwitch - allow changing fuel type in LF+OX or MP tanks, including non-stock. Required Firesplitter - MM patch
-     
-HeadShieldDecoupler - add build-in decoupler to heat shields, to the top node - MM patch
-      
-PlumeBoost - small visual improvements for visible engine exhaust, LV-N only for now - MM patch
-      
-RCS_Lower - both mass and max amount of MonoProp. in RCS tanks are ~2 times bigger than same-sised fuel tanks
-		Return this to more reasonable level - MM patch
-      
-SmallGimbal - add small gimballing (0.5 degree only) to all engines, except boosters and which already have - MM patch
+- ElectricCost - no more free electricCharge. But it still cheap. - MM patch
 
-StagingToggle - allow Fairing and Parachute to be removed from staging, as decouplers (beta) - MM patch
-											
-									
+- EngineResponseTime - add small (not like jeeets) response time for all engines - MM patch
+
+- FSFuelSwitch - allow changing fuel type in LF+OX or MP tanks, including non-stock. Required Firesplitter - MM patch
+
+- NervPlumeFix - small visual improvements for LV-N engine exhaust, move it closer to bell - MM patch
+
+- SmallGimbal - add small gimballing (0.4 degree only) to all engines, except boosters and which already have - MM patch
