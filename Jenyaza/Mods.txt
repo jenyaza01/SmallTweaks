@@ -1,15 +1,13 @@
 					Any from this small mods can be removed without any restricts and conflicts
-											But better do it before start new save.
+									  But better do it before start new save.
 
 											===== Description =====
 
 - AlternatorForAll - add small alternators to all engines, except boosters and which already have - MM patch
 
-- ChuteTweak - tweaking of parachutes drag and trigger heigths - MM patch
-
 - CommandInventory - build-in KIS storage for all crewed parts, only if you have KIS installed - MM patch
 
-- DecouplerCrossfeed - adds abiliity to toggle crossfeed in any decoupler - MM patch // need test with 1.2.1, may be in stock
+- DecouplerCrossfeed - adds abiliity to toggle crossfeed in all decouplers - MM patch
 
 - ElectricCost - no more free electricCharge. But it still cheap. - MM patch
 
@@ -17,6 +15,4 @@
 
 - FSFuelSwitch - allow changing fuel type in LF+OX or MP tanks, including non-stock. Required Firesplitter - MM patch
 
-- NervPlumeFix - small visual improvements for LV-N engine exhaust, move it closer to bell - MM patch
-
-- SmallGimbal - add small gimballing (0.4 degree only) to all engines, except boosters and which already have - MM patch
+- SmallGimbal - add small gimballing (0.1 degree only) to all engines, except boosters and which already have - MM patch
