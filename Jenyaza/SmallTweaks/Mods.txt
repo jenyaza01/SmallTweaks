@@ -1,18 +1,18 @@
-					Any from this small mods can be removed without any restricts and conflicts
-									  But better do it before start new save.
+				Any from this small mods can be removed without any restricts and conflicts
+								But better do it before start new savegame.
 
-											===== Description =====
+										===== Description =====
 
 - AlternatorForAll - add small alternators to all engines, except boosters and which already have - MM patch
 
 - CommandInventory - build-in KIS storage for all crewed parts, only if you have KIS installed - MM patch
 
-- DecouplerCrossfeed - adds abiliity to toggle crossfeed in all decouplers - MM patch
-
-- ElectricCost - no more free electricCharge. But it still cheap. - MM patch
+- ElectricCost - no more free electricCharge. But it still cheap - MM patch
 
 - EngineResponse - add small (not like jeeets) response time for all engines - MM patch
 
 - FSFuelSwitch - allow changing fuel type in LF+OX or MP tanks, including non-stock. Required Firesplitter - MM patch
+
+- NervPlumeFx - move exhaust fx closer to engine belt at LV-N engine - MM patch
 
 - SmallGimbal - add small gimballing (0.1 degree only) to all engines, except boosters and which already have - MM patch
