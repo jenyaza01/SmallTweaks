@@ -11,7 +11,7 @@
 
 - EngineResponse - add small (not like jeeets) response time for all engines - MM patch
 
-- FSFuelSwitch - allow changing fuel type in LF+OX or MP tanks, including non-stock. Required Firesplitter - MM patch
+- FSFuelSwitch - allow changing fuel type in LF+OX or MP tanks, including non-stock. Required Firesplitter, may not work with new dll versions, PM me - MM patch
 
 - NervPlumeFx - move exhaust fx closer to engine belt at LV-N engine - MM patch
 
