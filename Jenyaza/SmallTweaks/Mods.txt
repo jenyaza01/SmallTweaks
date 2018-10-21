@@ -3,6 +3,8 @@
 
 										===== Description =====
 
+- AblatorFix - heat shields contains too much Ablator, now it`s amount is 20% from maxAmount, not 100% as in stock - MM patch
+
 - AlternatorForAll - add small alternators to all engines, except boosters and which already have - MM patch
 
 - CommandInventory - build-in KIS storage for all crewed parts, only if you have KIS installed - MM patch
