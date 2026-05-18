@@ -3,7 +3,7 @@
   "GITHUB":{
     "USERNAME":"Jenyaza01",
     "REPOSITORY":"SmallTweaks",
-    "ALLOW_PRE_RELEASE":false,
+    "ALLOW_PRE_RELEASE":false
   },
   "VERSION": {
     "MAJOR": 1,
